@@ -1,4 +1,4 @@
-<!DOCTYPE html> 
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -6,9 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    <H1>Hellow the world </H1>
-    <H2>iam santhosh kumar </H2>
-    <h3>welcome to the world of gbu </h3>
-    <h4>iamfine </h4>
+    <h1>hello</h1>
+    <h2>iamsanthoshkumar</h2>
+    <h3>my hobbies are etc</h3>
 </body>
 </html>
